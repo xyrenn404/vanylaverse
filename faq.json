@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Apa itu Vanyla Bot?",
+    "answer": "Vanyla Bot adalah sistem otomatis berbasis WhatsApp yang bisa membantu menjalankan perintah, mencari data, dan fitur lainnya langsung lewat chat."
+  },
+  {
+    "question": "Bagaimana cara order bot ini?",
+    "answer": "Pilih produk yang kamu inginkan, lalu klik tombol \"Continue to Order\". Kamu akan diarahkan ke WhatsApp owner untuk melanjutkan proses pembelian."
+  },
+  {
+    "question": "Apakah bisa request fitur khusus?",
+    "answer": "Bisa. Hubungi owner lewat WhatsApp dan jelaskan fitur yang kamu butuhkan. Kalau memungkinkan, akan kami bantu buatkan."
+  },
+  {
+    "question": "Apakah ada support setelah pembelian?",
+    "answer": "Ada. Support diberikan selama masa aktif sewa atau premium kamu masih berlaku. Hubungi owner kalau ada kendala."
+  },
+  {
+    "question": "Kalau masa aktif sewa atau premium habis, apa yang terjadi?",
+    "answer": "Kalau masa aktif sewa habis, bot akan otomatis keluar dari grup. Kalau masa aktif premium habis, akses ke fitur premium akan dinonaktifkan sampai kamu perpanjang lagi."
+  },
+  {
+    "question": "Apa perbedaan antara Sewa Bot dan Jadi Bot?",
+    "answer": "Sewa Bot berarti kamu menyewa bot kami untuk digunakan di grup kamu. Jadi Bot berarti nomor WhatsApp kamu sendiri dijadikan bot dan kamu bisa mengelolanya penuh seperti owner."
+  },
+  {
+    "question": "Apakah fitur Premium bisa dipakai di semua grup?",
+    "answer": "Bisa, fitur Premium berlaku untuk semua grup yang kamu kelola selama masa aktif premium masih berjalan."
+  },
+  {
+    "question": "Berapa lama proses aktivasi setelah order?",
+    "answer": "Aktivasi biasanya memakan waktu 5–10 menit setelah pembayaran dikonfirmasi."
+  },
+  {
+    "question": "Apakah bisa refund jika salah beli?",
+    "answer": "Maaf, kami tidak menerima refund. Pastikan kamu memilih produk dengan benar sebelum melakukan pembayaran."
+  },
+  {
+    "question": "Apakah script Vanyla Ai bisa langsung dipakai?",
+    "answer": "Bisa langsung dipakai. Tapi beberapa pengaturan mungkin perlu disesuaikan sendiri sesuai kebutuhan kamu."
+  },
+  {
+    "question": "Kalau saya beli script versi no update, apa saya dapat versi terbaru?",
+    "answer": "Tidak otomatis. Kalau kamu beli versi no update, kamu bisa tetap dapat versi terbaru dengan bayar biaya update sekitar Rp5.000–Rp15.000 tergantung skala pembaruan."
+  },
+  {
+    "question": "Apakah bisa minta penambahan fitur baru?",
+    "answer": "Bisa. Kamu bisa request fitur baru ke owner. Selama memungkinkan dan masuk akal untuk ditambahkan, akan kami bantu tanpa biaya tambahan."
+  },
+  {
+    "question": "Kalau ada fitur yang error atau tidak jalan, apa bisa diperbaiki?",
+    "answer": "Bisa. Kalau kamu menemukan fitur yang error, langsung laporkan ke owner. Kami akan bantu perbaikan tanpa biaya selama kamu masih aktif sewa atau premium."
+  },
+  {
+    "question": "Apa perbedaan antara Sewa Bot dan Premium? Apa saja benefitnya?",
+    "answer": "Sewa Bot artinya kamu menyewa bot kami untuk membantu mengelola grup WhatsApp kamu secara otomatis. Sedangkan Premium adalah upgrade akun kamu agar bisa akses fitur eksklusif secara pribadi.\n\n🔹 *Benefit Sewa Bot:*\n• Bot masuk ke grup kamu\n• Fitur aktif: Antilink, Welcome, Enable/Disable, Store List, Promote/Demote, Hidetag, dan lainnya\n• Masa aktif bisa pilih: 10, 20, 30, 40 hari, atau permanen\n\n🔸 *Benefit Premium:*\n• Unlimited limit\n• Bonus money game\n• Maker sticker\n• Bisa akses bot via PC\n• Bebas pakai fitur premium selama masa aktif\n• Masa aktif: 15, 30, 45, 60 hari, atau permanen"
+  },
+  {
+    "question": "Bagaimana cara memperpanjang masa aktif?",
+    "answer": "Kamu tinggal hubungi owner untuk perpanjangan. Bisa pilih paket sesuai kebutuhan, dan prosesnya cepat."
+  }
+]
